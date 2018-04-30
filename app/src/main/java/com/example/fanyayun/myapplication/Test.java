@@ -5,4 +5,5 @@ package com.example.fanyayun.myapplication;
  */
 
 public class Test {
+    private int a;
 }
